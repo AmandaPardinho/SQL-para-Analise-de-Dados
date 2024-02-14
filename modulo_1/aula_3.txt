@@ -1,0 +1,19 @@
+#SQL PARA ANÁLISE DE DADOS
+
+-SQL =>
+    -linguagem de programação
+    -altíssimo nível => muito próxima à linguagem escrita
+    -linguagem declarativa => não precisa dizer como fazer, apenas o que fazer
+    -criado em 1974 e usado desde então
+    -presente em diversos mercados
+    -padrão ANSI- forte presença no mercado de dados
+    -1970 - 2000 => armazenamento e exploração dos dados era feita de forma mais estática
+        -não se trabalhava com grandes volumes de dados
+        -SQL era a principal ferramenta para o profissional de dados
+    -a partir dos anos 2000 => desenvolvimento/expansão da internet
+        -aumento exponencial do volume de dados
+        -necessidade de novas ferramentas para lidar com esses dados
+        -mercado dividido em dois: nova dinâmica => SQL continuou sendo usado (uma das principais ferramentas do mercado)
+            -transacional (páginas web, jogos, etc)
+            -analítico (análise de dados)
+            
