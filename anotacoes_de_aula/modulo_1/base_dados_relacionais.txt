@@ -1,0 +1,19 @@
+BASE DE DADOS RELACIONAIS
+
+-armazenamento físico de dados =>
+    -arquivos ou softwares armazenados na memória do computador
+    -SGBD => sistema gerenciador de base de dados
+        -software que gerencia o armazenamento de dados
+        -exemplos: MySQL, PostgreSQL, Oracle, SQL Server, SQLite, etc.
+    -base de dados => organização lógica de dados
+        -base de dados é diferente de SGBD, mesmo que muitas vezes sejam usados como sinônimos
+-armazenamento lógico dos dados =>
+    -oferecem uma abstração de como o dado está armazenado
+        -é a partir dessa abstração que conseguimos interagir com o dado armazenado
+        -conceitos =>
+            -tabela => estrutura lógica e tabular de dados organizados em linhas e colunas
+                -cada linha contém um conjunto heterogêneo de dados
+                -cada coluna contém um conjunto homogêneo de dados
+            -base de dados => conjunto lógico de tabelas
+                -base de dados relacionais => possuem tabelas que contém um relacionamento lógico entre si
+                -existem também dados não relacionais (no-sql)

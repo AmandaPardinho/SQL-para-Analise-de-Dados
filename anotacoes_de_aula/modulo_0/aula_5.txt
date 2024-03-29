@@ -1,0 +1,31 @@
+PERGUNTAS FREQUENTES
+
+-extensão ipynb => 
+    -arquivo Jupyter Notebook
+    -aplicação web de código aberto que permite criar e compartilhar documentos que contêm código, equações, visualizações e texto explicativo.
+    -Os usos incluem: limpeza e transformação de dados, simulação numérica, modelagem estatística, visualização de dados, aprendizado de máquina e muito mais
+    -usados para criar, salvar e abrir notebooks no Jupyter e no Google Colab
+
+-Google Colab =>
+    -plataforma baseada no ambiente de desenvolvimento Jupyter Notebook 
+    -permite que você escreva e execute código em Python no seu navegador, com:
+        -nenhuma configuração necessária
+        -acesso gratuito a GPUs
+        -compartilhamento fácil
+
+-restrições em colunas de uma tabela =>
+    é possível definir restrições e regras para as colunas de uma tabela, como por exemplo:
+        -chave primária
+        -chave estrangeira
+        -not null
+        -unique
+        -check
+        -default
+        -autoincrement
+        -etc
+
+-SELECT DISTINCT => 
+    -retorna apenas valores distintos
+    -elimina valores duplicados
+    -não se limita a um único valor => pode ser usado para obter valores únicos de um campo ou para obter combinações únicas de valores em várias colunas
+

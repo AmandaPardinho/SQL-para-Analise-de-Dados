@@ -1,0 +1,7 @@
+BASE DE DADOS E LINGUAGEM SQL - INTRODUÇÃO
+
+INTRODUÇÃO AO GOOGLE COLAB
+-Google colab => ferramenta web autogerenciada de notebooks 
+    -notebooks => conjuntos de células que podem conter texto ou código
+        -as células de código são exclusivas para desenvolvimento em Python
+    -é possível fazer download da versão final do notebook em diversos formatos (ipynb, pdf, etc)
