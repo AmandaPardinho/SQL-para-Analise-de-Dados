@@ -1,0 +1,7 @@
+INTRODUÇÃO AO AWS CONSOLE
+
+-AWS => Amazon Web Services
+    -plataforma de computação em nuvem
+    -oferece vários serviços de computação, armazenamento, banco de dados, análise, aplicativos e implantação
+    -AWS S3 => serviço de armazenamento de dados
+    -AWS Athena => serviços de computação em SQL

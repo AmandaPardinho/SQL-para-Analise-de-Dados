@@ -1,0 +1,12 @@
+BASE DE DADOS E LINGUAGEM SQL
+
+-SQL => structured query language
+    -linguagem de consulta estruturada
+    -linguagem de programação declarativa para interação com dados armazenados nas tabelas de um banco de dados
+    -cada SGBD implementa uma versão do SQL
+        -todos seguem o padrão registrado no ANSI, mas acrescentam algo que os difere de uma base de dados para outra
+    -é dividido em dois grandes grupos =>
+        -DDL => linguagem de definição de dados
+            -possui um conjunto de comendos para a definição dos dados
+        -DML => linguagem de manipulação de dados
+            -possui um conjunto de comandos para manipulação dos dados
