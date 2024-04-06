@@ -1,0 +1,9 @@
+ARMAZENAMENTO DE DADOS COM AWS S3
+
+-AWS S3 => serviço de armazenamento distribuído e sem servidor
+    -armazenamento distribuído => todo dado colocado no S3 é replicado em pelo menos 3 máquinas para garantir que este dado estará sempre disponível
+    -atua como repositório de dados
+    -foi inspirado no Apache Hadoop => primeiro serviço open source de armazenamento distribuído 
+    -funcionamento do S3 =>
+        -bucket => partição lógica de dados dentro do sistema de arquivo distribuído
+        -objeto => é um dado que foi armazenado dentro de um bucket

@@ -1,0 +1,8 @@
+COMPUTAÇÃO EM SQL COM O AWS ATHENA
+
+-AWS Athena => serviço de computação distribuída e sem servidor que atua como motor de colsulta (query engine)
+    -query engine => faz a tradução entre as consultas SQL e o processamento de dados em si
+    -funcionamento =>
+        -transforma a query em código
+        -processa os arquivos armazenados no AWS S3 com o código gerado
+        -retorna o resultado da query no console
