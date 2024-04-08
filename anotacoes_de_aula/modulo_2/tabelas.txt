@@ -1,0 +1,16 @@
+CRIANDO TABELAS
+
+-principais tipos de dados =>
+    -int => valores numéricos inteiros
+        -possui subdivisões que permitem otimizar o armazenamento dos dados
+            -tinyint => valores inteiros de 1 byte
+            -smallint => valores inteiros de 2 bytes
+            -mediumint => valores inteiros de 3 bytes
+            -int => valores inteiros de 4 bytes
+            -bigint => valores inteiros de 8 bytes
+    -float, double => valores numéricos aproximados (de ponto flutuante)
+    -boolean => valores lógicos (verdadeiro ou falso)
+    -char, varchar, string => valores de texto
+    -date, time, datetime, timestamp =>valores de cadeia de caracteres pré-formatados (data/hora)
+-declarar o tipo do dado a ser armazenado restringe aquilo que é colocado em cada campo
+    
