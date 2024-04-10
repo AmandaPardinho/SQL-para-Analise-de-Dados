@@ -1,0 +1,14 @@
+ALTERAÇÃO E DESCARTE DE TABELAS
+
+-alteração de tabelas =>
+    -inserir colunas
+        -há diferenças entre os sistemas de gerenciamento de banco de dados (consultar documentação de acordo com o SGBD utilizado)
+            -mesmo com essas variações, estes comandos ainda se parecem muito
+    -alterar colunas
+-exclusão de tabelas
+    -remover colunas e tabelas
+    -cuidado com a remoção de tabelas => pode gerar impacto em outros lugares do banco de dados
+        -é preferível criar uma nova tabela, testar e depois remover a antiga
+    -podem existir restrições de integridade que impedem a remoção de tabelas
+        -é necessário remover essas restrições antes de remover a tabela
+    

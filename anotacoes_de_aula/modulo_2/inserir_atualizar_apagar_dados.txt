@@ -1,0 +1,18 @@
+INSIRA, ATUALIZE E APAGUE DADOS
+
+-comando SELECT permite =>
+    -visualização de todos os dados de uma tabela
+        -observação: quando se trabalha com big data, dependendo do SGBD usado, pode ser que o número de linhas exibidas seja limitada
+            -isso impede que o sistema trave por excesso de dados/incapassidade de processamento
+        -para bancos de dados pequenos, não há essa restrição do número de linhas exibidas
+    -visualização de dados específicos de uma tabela
+-para inserir dados em uma tabela usa-se uma tupla
+    -tupla: conjunto de dados que representam uma linha da tabela
+        -cada dado da tupla é referente a uma coluna da tabela
+    -o comando para inserir dados pode ser usado de duas formas =>
+        -sendo inseridos em todas as colunas daquela tabela
+        -sendo inseridos em colunas específicas daquela tabela
+-caso seja necessário realizar a alteração de um valor numa das colunas da tabela, usa-se o comando UPDATE
+    -para uso deste comando é comum o uso de filtros => fazer um UPDATE sem filtro implica alterar todos os valores da coluna, deixando-os iguais
+-há também a possibilidade de deletar linhas de uma tabela usando o comando DELETE
+    -para uso deste comando é comum o uso de filtros => fazer um DELETE sem filtro implica deletar todas as linhas da tabela
