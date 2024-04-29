@@ -1,0 +1,12 @@
+SELEÇÃO DE DADOS
+
+-comando AS =>
+    -vem da palavra "alias" (apelido)
+    -serve para renomear colunas ou tabelas
+        -só altera o nome na visualização, não no banco de dados
+    -usado no comando SELECT
+    -útil para facilitar a leitura do código
+-comando DISTINCT =>
+    -serve para retornar valores únicos, sem repetição
+    -útil para evitar repetições
+    -usado no comando SELECT

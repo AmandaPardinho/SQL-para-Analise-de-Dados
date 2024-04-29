@@ -1,0 +1,8 @@
+ORDENE E LIMITA OS RESULTADOS
+
+-comando ORDER BY=>
+    -pode ser feita de modo ascendente ou descendente
+    -pode ser feita por mais de uma coluna
+-comando LIMIT=>
+    -limita o número de resultados
+    -pode ser usado para paginar resultados

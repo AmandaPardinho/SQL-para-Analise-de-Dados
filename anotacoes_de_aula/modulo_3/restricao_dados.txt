@@ -1,0 +1,23 @@
+RESTRIÇÃO DE DADOS
+
+-tabelas relacionadas => relaciona as tabelas usando chave primária e estrangeira para fazer a referência entre elas
+    -chave primária (PRIMARY KEY - PK) => 
+        -chave principal de uma tabela
+        -não pode ser nula
+        -deve ser única
+        -a chave primária pode ser usada para identificar uma instância em outra tabela
+        -é possível colocar a cláusula AUTO_INCREMENT para que o valor seja incrementado automaticamente, somando 1 ao último valor inserido como PK
+    -chave estrangeira (FOREIGN KEY - FK) =>
+        -usada quando queremos relacionar duas tabelas
+        -a chave estrangeira é a chave primária de outra tabela
+-tipos de restrição => regras estabelecidas aos dados de uma tabela
+    -pode ser feita em qualquer coluna da tabela
+    -tipos de restrição =>
+        -NOT NULL => não permite valores nulos
+        -UNIQUE => não permite valores duplicados
+        -PRIMARY KEY => não permite valores duplicados e nulos
+        -FOREIGN KEY => garante que os valores de uma coluna existam em outra tabela
+        -CHECK => permite criar uma condição para os valores de uma coluna
+        -DEFAULT => permite definir um valor padrão para a coluna
+        -INDEX => permite criar um índice para a coluna
+        -AUTO_INCREMENT => permite que o valor da coluna seja incrementado automaticamente
