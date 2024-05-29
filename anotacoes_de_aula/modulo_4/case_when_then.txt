@@ -1,0 +1,4 @@
+SELEÇÃO CONDICIONAL USANDO CASE/WHEN/THEN
+
+-permite que várias condições possam ser testadas em uma única instrução 
+    -pode ser utilizado dentro de uma instrução SELECT, UPDATE ou DELETE

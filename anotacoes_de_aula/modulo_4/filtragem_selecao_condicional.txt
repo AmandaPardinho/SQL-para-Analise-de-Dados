@@ -1,0 +1,23 @@
+FILTRAGEM E SELEÇÃO CONDICIONAL
+
+-comando WHERE =>
+    -seleciona dados a partir de uma condição
+    -pode ser usado com =>
+        -operadores lógicos (AND, OR, NOT)
+        -operadores de comparação (=, <>, >, <, >=, menor que)
+        -operadores de intervalo (BETWEEN, IN, LIKE)
+        -operadores de conjunto (IS NULL, IS NOT NULL)
+    -os conectores lógicos AND e OR são usados para combinar múltiplas condições
+        -se o operador AND for usado, todas as condições devem ser verdadeiras
+        -se o operador OR for usado, pelo menos uma condição deve ser verdadeira
+    -os operadores de intervalo são usados para verificar se um valor está dentro de um intervalo
+        -BETWEEN => seleciona valores dentro de um intervalo
+        -IN => seleciona valores que correspondem a uma lista de valores
+        -LIKE => seleciona valores que correspondem a um padrão
+            -faz uso de caracteres especiais (wildcards)
+                -% => representa zero ou mais caracteres
+                -_ => representa um único caracterer
+                -[charlist] => representa qualquer caractere na lista
+                -[^charlist] => representa qualquer caractere que não esteja na lista
+                -[char1-char2] => representa qualquer caractere no intervalo
+                
