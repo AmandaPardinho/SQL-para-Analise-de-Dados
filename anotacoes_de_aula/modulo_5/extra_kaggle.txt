@@ -1,0 +1,10 @@
+KAGGLE
+
+site: https://www.kaggle.com/
+
+-Kaggle => 
+    -plataforma de competições de ciência de dados que permite que os usuários:
+        -encontrem e publiquem conjuntos de dados
+        -explorem e construam modelos em um ambiente de ciência de dados baseado em nuvem 
+        -trabalhem com outros cientistas de dados. 
+    -a plataforma é uma comunidade de cientistas de dados, que variam de iniciantes a especialistas, que competem em competições de modelagem preditiva

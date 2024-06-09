@@ -1,0 +1,6 @@
+FUNÇÃO COUNT E CLÁUSULA GROUP BY
+
+-função COUNT => é uma função de agregação que retorna o número de linhas que correspondem a um critério específico.
+    -a cláusula WHERE é usada para especificar um critério (filtro)
+-cláusula GROUP BY => é usada em conjunto com a função COUNT para agrupar o resultado da contagem com base em um ou mais campos.
+    -a cláusula GROUP BY é usada com frequência com funções de agregação (COUNT, SUM, AVG, MAX, MIN) para agrupar o resultado de uma ou mais colunas.

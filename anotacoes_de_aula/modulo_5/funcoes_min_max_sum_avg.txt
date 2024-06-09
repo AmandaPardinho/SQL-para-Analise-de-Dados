@@ -1,0 +1,10 @@
+USO DAS FUNÇÕES MIN, MAX, SUM E AVG
+
+-função MIN => 
+    -retorna o menor valor de uma coluna indicada, de acordo com as condições estabelecidas
+-função MAX => 
+    -retorna o maior valor de uma coluna indicada, de acordo com as condições estabelecidas
+-função SUM =>
+    -retorna a soma dos valores de uma coluna indicada, de acordo com as condições estabelecidas
+-função AVG =>
+    -retorna a média dos valores de uma coluna indicada, de acordo com as condições estabelecidas

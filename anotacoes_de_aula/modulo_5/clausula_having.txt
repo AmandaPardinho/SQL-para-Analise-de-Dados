@@ -1,0 +1,7 @@
+CLÁUSULA HAVING
+
+-clásula having =>
+    -usada como filtro em uma query que contém uma função 
+    -usada no lugar da clásula where
+    -é adicionada após a cláusula group by
+    -a condição contida na cláusula having se associa a uma das funções
