@@ -1,0 +1,10 @@
+UNION
+
+-função UNION => combina colunas e linhas de duas ou mais tabelas em uma única tabela
+    -mostra os valores sequencialmente
+    -usada junto com a cláusula SELECT
+        -as seleções devem possuir o mesmo número de colunas
+        -as colunas combinadas devem possuir o mesmo tipo de dados
+    -faz uma concatenação vertical dos dados
+    -acrescenta os valores que não estão duplicados
+    -caso haja necessidade de mostrar os valores duplicados, usar UNION ALL

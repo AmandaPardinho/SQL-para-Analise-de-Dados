@@ -1,0 +1,6 @@
+INNER JOIN E CROSS JOIN
+
+-função INNER JOIN: junta as tabelas de acordo com a condição especificada
+    -mostra as informações comuns em duas stabelas
+    
+

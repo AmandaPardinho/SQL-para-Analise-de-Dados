@@ -1,0 +1,7 @@
+LEFT JOIN E RIGHT JOIN
+
+-nesses tipos de junção, as informações de uma das tabelas será mostrada por inteiro, enquanto a da outra, apenas as informações que possuem correspondência (intersecção) serão exibidas
+    -left join: mostra todas as informações da tabela à esquerda e apenas as informações correspondentes da tabela à direita
+        -left => tabela que é exibida logo após o FROM (principal tabela; tabela que será exibida por inteiro)
+    -right join: mostra todas as informações da tabela à direita e apenas as informações correspondentes da tabela à esquerda
+        -right => tabela que é exibida logo após o JOIN (tabela que será exibida por inteiro)

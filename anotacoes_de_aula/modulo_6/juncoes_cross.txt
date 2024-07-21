@@ -1,0 +1,8 @@
+JOUNÇÕES CROSS
+
+-junção CROSS JOIN: faz a junção (concatenação) de todas as linhas de uma tabela com todas as linhas de outra tabela
+    -não é necessário especificar uma condição
+    -retorna o produto cartesiano das tabelas
+    -útil para combinar todas as linhas de uma tabela com todas as linhas de outra tabela
+    -pode ser útil para gerar combinações de dados
+    -é o produto cartesiano das tabelas
